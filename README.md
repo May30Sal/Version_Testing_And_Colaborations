@@ -1,9 +1,9 @@
 # senai-versoes-colaboracoes
 
-##Repositório teste de versões e colaborações para aprendizagem do uso das ferramentas Git e Github.
+## Repositório teste de versões e colaborações para aprendizagem do uso das ferramentas Git e Github.
 Desenvolvido no curso Programador FullStack do Senai.
 
-######Comandos utilizados nessa tarefa:
+###### Comandos utilizados nessa tarefa:
 
 'git init'para criar o repositório local.
 
@@ -13,7 +13,7 @@ Desenvolvido no curso Programador FullStack do Senai.
 
 'git status' para verificar as alterações.
 
-'git commi -m "meu primeiro commit"' para salvar a alteração no repositório local.
+'git commit -m "meu primeiro commit"' para salvar a alteração no repositório local.
 
 'git log' para visualizar as alterações realizadas.
 
@@ -27,7 +27,7 @@ Desenvolvido no curso Programador FullStack do Senai.
 
 'git pull' para baixar as alterações do repositório remoto para o repositório local.
 
-Criei um arquivo '.gitignore' com o nome dos arquivos a serem ignorados; depois conferi o status com 'git status'; adicionei as mudanças com 'git add .' e comentei com 'git commir -m "adicionando o gitignore"' .
+Criei um arquivo '.gitignore' com o nome dos arquivos a serem ignorados; depois conferi o status com 'git status'; adicionei as mudanças com 'git add .' e comentei com 'git commit -m "adicionando o gitignore"' .
 
 Criei um clone com 'git clone "https://github.com/May30Sal/senai-versoes-colaboracoes.git"' .
 
